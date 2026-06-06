@@ -1,3 +1,5 @@
+Fourier Transform Assignment Problems(7)
+
 We are asked to find the Fourier series of
 
 $f(x)=x+π,x∈[−π,π].$
