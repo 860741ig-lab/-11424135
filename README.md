@@ -6,3 +6,6 @@
 6月6  第二次作業完成
 Laplace Transform Homework Problems(2)
 Fourier Transform Assignment Problems(7)
+
+6月19 完成期末報告 "第五題"
+Final Project  Topic (5)
